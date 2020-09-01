@@ -8,7 +8,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World! 12345");
             
-            ;;
+            //Renived semi-colon
         }
     }
 }
