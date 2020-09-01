@@ -9,7 +9,7 @@ namespace ConsoleApp1
             Console.WriteLine("Hello World! 12345");
             Console.WriteLine("This is a test!");
             
-            //Renived semi-colon
+            //Removed semi-colon
         }
     }
 }
